@@ -1,0 +1,5 @@
+**/*.tfstate*
+**/.terraform/
+**/lambda.zip
+**/__pycache__/
+invoke-out.json
